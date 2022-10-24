@@ -1,0 +1,9 @@
+E:\Web Services\WebApplication7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Web Services\WebApplication7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Web Services\WebApplication7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Web Services\WebApplication7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Web Services\WebApplication7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Web Services\WebApplication7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Web Services\WebApplication7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Web Services\WebApplication7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Web Services\WebApplication7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
